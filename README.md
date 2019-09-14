@@ -11,8 +11,12 @@ I am slowly planning to upload some of audio experimentation projects here.
 # Links
 For now some important links:
 📱 [http://vitorventurin.github.io/](http://vitorventurin.github.io/)
+
 🎶[https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about)
+
 🗣[https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
 # Mission
 What would be inside these boxes? 😼
+
+<diagram>
