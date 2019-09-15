@@ -19,4 +19,4 @@ For now some important links:
 # Mission
 What would be inside these boxes? 😼
 
-<diagram>
+![Freedom is a state of mind](https://github.com/hazemuziek/Welcome/blob/master/diagram.png)
