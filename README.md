@@ -8,7 +8,7 @@ For now, enjoy the links below and contact me for a smart coffee. My personal em
 
 # Links
 Places where I have been:  
-📱 [http://vitorventurin.github.io/](http://vitorventurin.github.io/) . 
+📱 [http://vitorventurin.github.io/](http://vitorventurin.github.io/) <br>
 🎶[https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about)
 
 # Articles
