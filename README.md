@@ -1,7 +1,7 @@
 # Welcome to Haze Muziek Studio Amsterdam.
 ## We develop music! 
 
-![Welcome](https://media.giphy.com/media/PL3xy9MhbRaXC/giphy.gif)
+![Welcome](https://media.giphy.com/media/5mYcsVrgxtxt7QUc55/giphy.gif)
 
 Hello, my name is **Vitor Venturin**, I am living in **Amsterdam** since July 2017 and after working as **iOS developer** for forward-thinking companies I decided to setup my own music homestudio at West of Amsterdam: The **Haze Muziek** studio. <br>
 As musician, I use my space to arrange, compose and **record** original songs, but not only that, I also develop ideas for **AI**, **bots**, **audio apps**.  
@@ -19,6 +19,6 @@ My band: 🎶 [https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](htt
 🗣 [https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
 # Mission
-![Mission](http://giphygifs.s3.amazonaws.com/media/dPaVE2pE4mkg/giphy.gif)
+![Mission](https://media.giphy.com/media/JSQZnOApmWAx2/giphy.gif)
 
 ![Freedom is a state of mind](https://github.com/hazemuziek/Welcome/blob/master/diagram.png)
