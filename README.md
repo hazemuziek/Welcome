@@ -16,6 +16,6 @@ My band: 🎶 [https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](htt
 🗣 [https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
 # Mission
-![Alt Text](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
+![Alt Text](http://giphygifs.s3.amazonaws.com/media/dPaVE2pE4mkg/giphy.gif)
 
 ![Freedom is a state of mind](https://github.com/hazemuziek/Welcome/blob/master/diagram.png)
