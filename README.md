@@ -12,11 +12,10 @@ For now, enjoy the links below and invite me for a coffee 📩 vitorventurin@gma
 My portfolio: 📱 [http://vitorventurin.github.io/](http://vitorventurin.github.io/) <br>
 My band: 🎶 [https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about)
 
-# Articles
-Good reading:  
+# Good start:  
 🗣 [https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
 # Mission
-What would be inside these boxes? 😼
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ![Freedom is a state of mind](https://github.com/hazemuziek/Welcome/blob/master/diagram.png)
