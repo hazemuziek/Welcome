@@ -15,10 +15,6 @@ For now, enjoy the links below and invite me for a coffee 📩 vitorventurin@gma
 My portfolio: 📱 [http://vitorventurin.github.io/](http://vitorventurin.github.io/) <br>
 My band: 🎶 [https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about](https://open.spotify.com/artist/537o7ZE9K8XFml7h1HuW5C/about)
 
-# Good start:  
+# Natural language processing for text:  
 🗣 [https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
-# Mission
-![Mission](https://media.giphy.com/media/JSQZnOApmWAx2/giphy.gif)
-
-![Freedom is a state of mind](https://github.com/hazemuziek/Welcome/blob/master/diagram.png)
